@@ -1,0 +1,12 @@
+[project]
+name = "llm_monkey"
+version = "0.1.1"
+description = "Marimo notebook to explore how LLMs function as advanced autocomplete engines."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "marimo",
+    "transformers",
+    "torch",
+    "plotly",
+]
