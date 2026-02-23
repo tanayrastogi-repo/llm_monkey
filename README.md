@@ -1,5 +1,6 @@
 # Monkey Predictor 🐒
 An interactive marimo notebook to explore how LLMs function as advanced autocomplete engines.
+Checkout the notebook at [![Open with marimo](https://marimo.io/shield.svg)](https://marimo.app/github.com/tanayrastogi-repo/llm_monkey/blob/main/next_word_predictor.py)
 
 ## How to Run
 1. **Install dependencies**:
