@@ -1,4 +1,4 @@
-# Monkey Predictor 🐒
+# LLM is Just An Advanced Autocomplete ..| 🐒
 An interactive marimo notebook to explore how LLMs function as advanced autocomplete engines.
 Checkout the notebook at [![Open in molab](https://marimo.io/molab-shield.svg)](https://molab.marimo.io/github/tanayrastogi-repo/llm_monkey/blob/main/next_word_predictor.py)
 
