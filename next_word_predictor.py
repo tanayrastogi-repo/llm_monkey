@@ -50,7 +50,7 @@ def _():
 
 @app.cell
 def _():
-    mo.image(src="static/img1.png")
+    mo.image(src="static/img1.jpg")
     return
 
 
